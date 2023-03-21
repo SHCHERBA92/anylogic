@@ -1,5 +1,3 @@
-package parsing;
-
 import java.time.LocalDateTime;
 
 public interface Parsing {
